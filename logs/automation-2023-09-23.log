@@ -1,0 +1,527 @@
+10:47:48.860 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+10:47:48.909 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+10:47:49.036 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button Selected
+10:47:49.243 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+10:47:50.614 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:Agree
+10:47:50.631 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:Agree
+10:47:50.744 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:DisAgree
+10:47:50.760 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:DisAgree
+10:50:40.658 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+10:50:40.690 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+10:50:41.489 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+10:50:41.573 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+10:50:41.574 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+10:50:43.073 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+10:50:44.505 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+10:50:44.691 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+10:50:45.083 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+10:50:45.083 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+10:50:48.341 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+10:50:48.342 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+10:50:48.442 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+10:50:48.632 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+10:50:49.046 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+10:50:49.139 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+10:50:49.331 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+10:50:49.707 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+10:50:49.800 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+10:50:50.006 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+10:51:10.486 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+10:51:10.608 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+10:51:10.772 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+10:51:10.886 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+10:52:05.859 [main] INFO  testCases.TC_003_SFAll_Independent - [05:30 PM - 05:59 PM] is selected in List
+10:52:06.275 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Updated to Datasheet
+10:52:06.275 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+10:52:06.320 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+10:52:06.454 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button Selected
+10:52:06.670 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+10:52:08.070 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:Agree
+10:52:08.096 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:Agree
+10:52:08.197 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:DisAgree
+10:52:08.207 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:DisAgree
+10:52:08.244 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Value Selected
+10:52:08.550 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of List Control Control Title
+10:52:28.639 [main] INFO  testCases.TC_003_SFAll_Independent - List Item Selected
+10:52:28.752 [main] INFO  testCases.TC_003_SFAll_Independent - List Next Clicked
+11:00:27.988 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+11:00:28.011 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+11:00:28.837 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+11:00:28.908 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+11:00:28.908 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+11:00:30.310 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+11:00:32.413 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+11:00:32.600 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+11:00:33.023 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+11:00:33.023 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:00:36.342 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+11:00:36.342 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+11:00:36.453 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+11:00:36.709 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+11:00:37.122 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+11:00:37.231 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+11:00:37.430 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+11:00:37.830 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+11:00:37.927 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+11:00:38.148 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+11:00:58.605 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+11:00:58.714 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+11:00:58.925 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+11:00:59.034 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+11:01:53.741 [main] INFO  testCases.TC_003_SFAll_Independent - [06:00 PM - 06:29 PM] is selected in List
+11:01:54.039 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Updated to Datasheet
+11:01:54.039 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+11:01:54.063 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+11:01:54.211 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button Selected
+11:04:35.885 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+11:04:35.921 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+11:04:36.745 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+11:04:36.862 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+11:04:36.862 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+11:04:38.380 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+11:04:39.913 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+11:04:40.102 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+11:04:40.515 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+11:04:40.515 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:04:43.750 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+11:04:43.751 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+11:04:43.858 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+11:04:44.086 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+11:04:44.513 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+11:04:44.609 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+11:04:44.854 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+11:04:45.239 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+11:04:45.340 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+11:04:45.584 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+11:05:06.074 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+11:05:06.175 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+11:05:06.436 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+11:05:06.549 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+11:06:01.664 [main] INFO  testCases.TC_003_SFAll_Independent - [06:30 PM - 06:59 PM] is selected in List
+11:06:02.070 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Updated to Datasheet
+11:06:02.070 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+11:06:02.108 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+11:06:03.241 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button clicked
+11:06:03.454 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:06:04.786 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:Agree
+11:06:04.806 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:Agree
+11:06:04.908 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:DisAgree
+11:06:04.921 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:DisAgree
+11:06:04.969 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Value Selected
+11:06:05.293 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of List Control Control Title
+11:06:26.481 [main] INFO  testCases.TC_003_SFAll_Independent - List Item Selected
+11:06:26.591 [main] INFO  testCases.TC_003_SFAll_Independent - List Next Clicked
+11:09:55.387 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+11:09:55.436 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+11:09:56.231 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+11:09:56.303 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+11:09:56.305 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+11:09:57.834 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+11:10:02.016 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+11:10:02.197 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+11:10:02.613 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+11:10:02.613 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:10:05.922 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+11:10:05.922 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+11:10:06.045 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+11:10:06.262 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+11:10:06.807 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+11:10:06.967 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+11:10:07.138 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+11:10:07.520 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+11:10:07.671 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+11:10:07.871 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+11:10:28.369 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+11:10:28.469 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+11:10:28.692 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+11:10:28.802 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+11:11:23.414 [main] INFO  testCases.TC_003_SFAll_Independent - [07:00 PM - 07:29 PM] is selected in List
+11:11:23.821 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Updated to Datasheet
+11:11:23.821 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+11:11:23.865 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+11:11:25.008 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button clicked
+11:11:25.221 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:11:26.568 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:Agree
+11:11:26.580 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:Agree
+11:11:26.686 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:DisAgree
+11:11:26.701 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:DisAgree
+11:11:26.748 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Value Selected
+11:11:27.117 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of List Control Control Title
+11:11:31.451 [main] INFO  testCases.TC_003_SFAll_Independent - [Sample Option 1] is selected in List
+11:11:31.451 [main] INFO  testCases.TC_003_SFAll_Independent - List Item Selected
+11:11:31.550 [main] INFO  testCases.TC_003_SFAll_Independent - List Next Clicked
+11:20:01.728 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+11:20:01.763 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+11:20:02.626 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+11:20:02.706 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+11:20:02.706 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+11:20:04.102 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+11:20:06.128 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+11:20:06.311 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+11:20:06.712 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+11:20:06.713 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:20:09.989 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+11:20:09.989 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+11:20:10.098 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+11:20:10.341 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+11:20:10.760 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+11:20:10.859 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+11:20:11.100 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+11:20:11.492 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+11:20:11.588 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+11:20:11.813 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+11:20:32.340 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+11:20:32.441 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+11:20:32.688 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+11:20:32.805 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+11:21:27.444 [main] INFO  testCases.TC_003_SFAll_Independent - [07:30 PM - 07:59 PM] is selected in List
+11:21:27.874 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Updated to Datasheet
+11:21:27.874 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+11:21:27.923 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+11:21:29.078 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button clicked
+11:21:29.305 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:21:30.639 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:Agree
+11:21:30.653 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:Agree
+11:21:30.771 [main] INFO  testCases.TC_003_SFAll_Independent - Expected Value:DisAgree
+11:21:30.783 [main] INFO  testCases.TC_003_SFAll_Independent - DropDown Value:DisAgree
+11:21:30.827 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Value Selected
+11:21:31.164 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of List Control Control Title
+11:21:35.953 [main] INFO  testCases.TC_003_SFAll_Independent - [Sample Option 1] is selected in List
+11:21:35.953 [main] INFO  testCases.TC_003_SFAll_Independent - List Item Selected Sample Option 1
+11:21:36.041 [main] INFO  testCases.TC_003_SFAll_Independent - List Next Clicked
+11:21:36.249 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Number Control Control Title
+11:21:36.621 [main] INFO  testCases.TC_003_SFAll_Independent - Number Selected 1234567890
+11:21:36.714 [main] INFO  testCases.TC_003_SFAll_Independent - Number Next Clicked
+11:40:01.880 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+11:40:01.920 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+11:40:02.798 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+11:40:02.869 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+11:40:02.871 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+11:40:04.304 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+11:40:07.604 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+11:40:07.716 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+11:40:08.154 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+11:40:08.154 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+11:40:11.477 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+11:40:11.477 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+11:40:11.596 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+11:40:11.837 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+11:40:12.287 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+11:40:12.381 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+11:40:12.613 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+11:40:12.982 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+11:40:13.116 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+11:40:13.310 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+11:40:33.828 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+11:40:33.928 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+11:40:34.162 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+11:40:34.281 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+12:04:09.233 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+12:04:09.269 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+12:04:10.114 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+12:04:10.185 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+12:04:10.185 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+12:04:11.556 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+12:04:14.071 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+12:04:14.242 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+12:04:14.692 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+12:04:14.692 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+12:04:17.995 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+12:04:17.996 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+12:04:18.106 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+12:04:18.303 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+12:04:18.730 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+12:04:18.829 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+12:04:19.015 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+12:04:19.394 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+12:04:19.476 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+12:04:19.678 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+12:04:40.142 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+12:04:40.243 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+12:04:40.476 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+12:04:40.643 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+12:05:45.501 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Updated to Datasheet
+12:05:45.501 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+12:05:45.521 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+12:05:46.658 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button clicked
+12:46:26.292 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+12:46:26.405 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+12:46:27.298 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+12:46:27.374 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+12:46:27.374 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+12:46:28.850 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+12:46:31.784 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+12:46:31.931 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+12:46:32.368 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+12:46:32.369 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+12:46:35.611 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+12:46:35.611 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+12:46:35.727 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+12:46:35.964 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+12:46:36.375 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+12:46:36.476 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+12:46:36.710 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+12:46:37.062 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+12:46:37.165 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+12:46:37.396 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+13:09:06.254 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+13:09:06.309 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+13:09:07.183 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+13:09:07.260 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+13:09:07.260 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+13:09:08.713 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+13:09:11.143 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+13:09:11.366 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+13:09:11.755 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+13:09:11.755 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+13:09:15.007 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+13:09:15.007 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+13:09:15.122 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+13:09:15.323 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+13:09:15.741 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+13:09:15.841 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+13:09:16.017 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+13:09:16.363 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+13:09:16.457 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+13:09:16.674 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+13:09:37.151 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+13:09:37.253 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+13:09:37.476 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+13:09:37.619 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+13:10:42.548 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Updated to Datasheet
+13:10:42.548 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Selected in Next Date
+13:10:42.572 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Time Captured in Expected Value
+13:10:43.718 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Next Button clicked
+16:24:02.113 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:24:02.161 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:24:03.048 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:24:03.117 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:24:03.117 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:24:04.513 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:24:08.160 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:24:08.291 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:24:08.712 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:24:08.712 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:24:11.971 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:24:11.972 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:24:12.080 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:24:12.319 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:24:12.774 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:24:12.875 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:24:13.048 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:24:13.418 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:24:13.564 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:24:13.753 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:24:34.250 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:24:34.347 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:24:34.552 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:24:34.668 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:26:07.361 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:26:07.389 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:26:08.173 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:26:08.249 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:26:08.249 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:26:09.736 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:26:14.044 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:26:14.121 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:26:14.578 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:26:14.579 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:26:17.851 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:26:17.851 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:26:17.974 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:26:18.193 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:26:18.621 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:26:18.725 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:26:18.903 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:26:19.255 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:26:19.353 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:26:19.568 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:26:40.123 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:26:40.225 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:26:40.433 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:26:40.561 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:31:39.902 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:31:39.951 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:31:40.792 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:31:40.865 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:31:40.866 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:31:42.338 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:31:45.070 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:31:45.167 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:31:45.597 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:31:45.597 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:31:48.866 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:31:48.866 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:31:48.984 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:31:49.196 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:31:49.614 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:31:49.721 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:31:49.913 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:31:50.306 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:31:50.403 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:31:50.921 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:32:11.452 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:32:11.552 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:32:11.756 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:32:11.867 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:34:01.285 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:34:01.350 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:34:02.502 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:34:02.584 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:34:02.584 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:34:04.302 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:34:08.075 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:34:08.185 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:34:08.579 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:34:08.579 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:34:12.050 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:34:12.051 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:34:12.223 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:34:12.394 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:34:12.862 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:34:12.992 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:34:13.209 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:34:13.701 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:34:13.810 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:34:14.048 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:34:34.525 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:34:34.681 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:34:34.843 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:34:34.977 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:36:13.192 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:36:13.231 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:36:14.055 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:36:14.127 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:36:14.127 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:36:15.696 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:36:22.224 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:36:22.363 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:36:22.770 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:36:22.770 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:36:26.018 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:36:26.018 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:36:26.164 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:36:26.439 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:36:27.131 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:36:27.329 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:36:27.522 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:36:27.993 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:36:28.183 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:36:28.416 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:36:48.957 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:36:49.058 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:36:49.647 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:36:49.757 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:41:00.508 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:41:00.550 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:41:01.443 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:41:01.513 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:41:01.513 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:41:02.950 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:41:05.028 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:41:05.213 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:41:05.595 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:41:05.596 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:41:08.879 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:41:08.879 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:41:08.984 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:41:09.238 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:41:09.672 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:41:09.773 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:41:09.958 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:41:10.328 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:41:10.423 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:41:10.588 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:41:31.119 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:41:31.212 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:41:31.468 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:41:31.578 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:43:10.277 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:43:10.337 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:43:11.389 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:43:11.512 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:43:11.512 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:43:13.134 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:43:17.950 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:43:18.067 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:43:18.555 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:43:18.555 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:43:21.813 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:43:21.813 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:43:22.009 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:43:22.290 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:43:22.875 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:43:23.076 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:43:23.510 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:43:23.985 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:43:24.156 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:43:24.470 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:43:44.980 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:43:45.080 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:43:45.301 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:43:45.434 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:47:27.025 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:47:27.074 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:47:28.270 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:47:28.367 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:47:28.368 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:47:30.298 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:47:32.887 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:47:33.069 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:47:33.506 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:47:33.506 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:47:36.787 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:47:36.788 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:47:36.904 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:47:37.064 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:47:37.452 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:47:37.562 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:47:37.719 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:47:38.071 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:47:38.164 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:47:38.385 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:47:58.820 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:47:58.928 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:47:59.130 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:47:59.248 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:48:24.220 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:48:24.269 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:48:25.096 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:48:25.170 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:48:25.170 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:48:26.745 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:48:28.811 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:48:28.975 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:48:29.346 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:48:29.346 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:48:32.619 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:48:32.620 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:48:32.733 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:48:32.936 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:48:33.352 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:48:33.454 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:48:33.638 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title
+16:48:33.991 [main] INFO  testCases.TC_003_SFAll_Independent - Email Id Entered
+16:48:34.086 [main] INFO  testCases.TC_003_SFAll_Independent - Email Next Clicked
+16:48:34.260 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of PhoneNumber Control Title
+16:48:54.845 [main] INFO  testCases.TC_003_SFAll_Independent - Phone Number Entered
+16:48:54.950 [main] INFO  testCases.TC_003_SFAll_Independent - PhoneNumber Next Clicked
+16:48:55.164 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Appointment Control Title
+16:48:55.299 [main] INFO  testCases.TC_003_SFAll_Independent - Appointment Clicked
+16:50:12.141 [main] INFO  testCases.TC_003_SFAll_Independent - ******starting TC_003_SFAll_Independent ****
+16:50:12.180 [main] INFO  testCases.TC_003_SFAll_Independent - Excel file Utility instance created
+16:50:12.998 [main] INFO  testCases.TC_003_SFAll_Independent - Row Count is: 1
+16:50:13.072 [main] INFO  testCases.TC_003_SFAll_Independent - Col Count is: 47
+16:50:13.073 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values started...
+16:50:14.511 [main] INFO  testCases.TC_003_SFAll_Independent - Extracting DataSheet Values Completed...
+16:50:16.435 [main] INFO  testCases.TC_003_SFAll_Independent - Survey Form Url Launched..
+16:50:16.596 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Message Control Title
+16:50:16.985 [main] INFO  testCases.TC_003_SFAll_Independent - Select an option..!Actual Title 
+16:50:16.985 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of MultiChoice Control Title
+16:50:20.256 [main] INFO  testCases.TC_003_SFAll_Independent - [Strongly Agree] is selected in List
+16:50:20.256 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Item Selected
+16:50:20.370 [main] INFO  testCases.TC_003_SFAll_Independent - MultiChoice Next Clicked
+16:50:20.579 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of TextQuestion Control Title
+16:50:20.995 [main] INFO  testCases.TC_003_SFAll_Independent - Text Entered in TextAnswer Control
+16:50:21.099 [main] INFO  testCases.TC_003_SFAll_Independent - Text Question Next Clicked
+16:50:21.295 [main] INFO  testCases.TC_003_SFAll_Independent - Validation of Email Control Title

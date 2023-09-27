@@ -1,0 +1,497 @@
+12:43:44.064 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+12:43:44.105 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+12:43:44.796 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+12:43:44.864 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+12:43:44.864 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+12:43:46.381 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+12:43:46.381 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+12:44:01.904 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+12:44:01.994 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+12:44:17.004 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+12:44:20.741 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+12:44:21.360 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+12:44:24.362 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+12:44:24.464 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+12:44:25.472 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+12:44:25.573 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+12:44:26.577 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+12:44:26.717 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+12:44:26.973 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+12:44:27.046 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+12:44:27.104 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+12:44:30.215 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+12:44:30.215 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+13:35:14.145 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:35:14.177 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:35:14.838 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:35:14.911 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:35:14.911 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:35:16.457 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:35:16.458 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+13:35:20.281 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+13:35:20.376 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+13:35:35.380 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+13:35:38.970 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+13:35:39.607 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+13:35:42.614 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+13:35:42.711 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+13:35:43.720 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+13:35:43.807 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+13:35:44.819 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+13:35:44.926 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+13:35:45.174 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+13:35:45.262 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+13:35:45.321 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+13:35:48.429 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+13:35:48.429 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+13:37:59.932 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:37:59.972 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:38:00.705 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:38:00.776 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:38:00.777 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:38:02.234 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:39:04.081 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:39:04.118 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:39:04.849 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:39:04.928 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:39:04.928 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:39:06.343 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:40:48.036 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:40:48.074 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:40:48.814 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:40:48.890 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:40:48.890 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:40:50.334 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:42:21.459 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:42:21.495 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:42:22.210 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:42:22.292 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:42:22.293 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:42:24.633 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:43:53.669 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:43:53.698 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:43:54.529 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:43:54.613 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:43:54.613 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:43:56.010 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:44:49.548 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:44:49.581 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:44:50.340 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:44:50.415 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:44:50.415 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:44:52.392 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:45:30.620 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:45:30.653 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:45:31.403 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:45:31.485 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:45:31.486 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:45:33.534 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:45:33.604 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+13:45:37.153 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+13:45:37.255 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+13:45:52.266 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+13:45:54.980 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+13:45:55.623 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+13:45:58.630 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+13:45:58.715 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+13:45:59.723 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+13:45:59.830 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+13:46:00.835 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+13:46:00.984 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+13:46:01.308 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+13:46:01.401 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+13:46:01.449 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+13:46:04.579 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+13:46:04.580 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+13:47:25.209 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:47:25.242 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:47:25.945 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:47:26.022 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:47:26.022 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:47:27.491 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:48:34.192 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:48:34.238 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:48:35.013 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:48:35.105 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:48:35.105 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:48:36.894 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:49:44.386 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:49:44.440 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:49:45.546 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:49:45.644 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:49:45.644 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:49:47.329 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+13:51:31.689 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+13:51:31.724 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+13:51:32.483 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+13:51:32.557 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+13:51:32.557 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+13:51:34.115 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:20:30.738 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:20:30.774 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:20:31.500 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:20:31.574 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:20:31.574 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:20:33.098 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:25:19.172 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:25:19.206 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:25:19.925 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:25:20.006 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:25:20.006 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:25:21.645 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:26:41.766 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:26:41.799 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:26:42.495 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:26:42.568 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:26:42.568 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:26:44.309 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:28:24.254 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:28:24.293 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:28:25.012 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:28:25.084 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:28:25.084 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:28:26.825 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:29:18.916 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:29:18.952 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:29:19.660 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:29:19.739 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:29:19.739 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:29:21.520 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:31:31.291 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:31:31.324 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:31:32.072 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:31:32.149 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:31:32.149 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:31:33.890 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:31:33.974 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+14:31:37.446 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+14:31:37.547 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+14:31:52.557 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+14:31:56.346 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+14:31:56.970 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+14:34:01.475 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:34:01.511 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:34:02.221 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:34:02.289 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:34:02.289 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:34:03.982 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:34:05.114 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+14:34:23.988 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+14:34:24.019 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+14:34:24.723 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+14:34:24.793 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+14:34:24.793 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+14:34:26.180 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+14:34:27.089 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+15:27:47.248 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:27:47.288 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:27:48.011 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:27:48.084 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:27:48.084 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:27:49.705 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:28:33.644 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:28:33.674 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:28:34.413 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:28:34.489 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:28:34.489 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:28:36.029 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:28:36.029 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:28:50.967 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:28:51.055 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:29:06.068 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:29:10.081 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:29:10.701 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+15:29:13.706 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+15:29:13.800 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+15:29:14.809 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:29:14.904 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+15:29:15.907 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:29:15.993 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+15:29:16.241 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+15:29:16.314 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+15:29:16.375 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+15:29:19.486 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+15:32:41.009 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:32:41.049 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:32:41.808 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:32:41.877 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:32:41.877 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:32:43.450 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:32:43.450 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:32:47.491 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:32:47.585 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:33:02.586 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:33:04.056 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:33:04.668 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+15:33:07.682 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+15:33:07.780 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+15:33:08.787 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:33:08.888 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+15:33:09.901 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:33:10.002 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+15:33:10.358 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+15:33:10.453 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+15:33:10.531 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+15:33:13.637 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+15:34:45.432 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:34:45.485 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:34:46.318 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:34:46.394 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:34:46.394 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:34:47.996 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:34:47.996 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:35:03.194 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:35:03.297 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:35:18.301 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:35:22.091 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:35:22.693 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+15:35:25.705 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+15:35:25.798 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+15:35:26.802 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:35:26.886 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+15:35:27.893 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:35:28.001 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+15:35:28.253 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+15:35:28.329 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+15:35:28.382 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+15:35:31.486 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+15:37:28.368 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:37:28.400 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:37:29.098 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:37:29.169 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:37:29.169 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:37:30.656 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:37:30.656 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:37:45.740 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:37:45.839 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:38:00.848 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:38:04.500 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:38:05.108 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+15:38:08.109 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+15:38:08.198 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+15:38:09.214 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:38:09.320 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+15:38:10.326 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:38:10.433 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+15:38:10.694 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+15:38:10.768 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+15:38:10.836 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+15:38:13.943 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+15:41:53.809 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:41:53.838 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:41:54.537 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:41:54.612 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:41:54.612 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:41:56.263 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:41:56.264 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:42:08.376 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:42:08.495 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:42:23.505 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:42:27.153 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:42:27.777 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+15:42:30.791 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+15:42:30.870 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+15:42:31.878 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:42:31.955 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+15:42:32.970 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:42:33.117 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+15:42:33.369 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+15:42:33.474 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+15:42:33.559 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+15:42:36.672 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+15:42:38.689 [main] INFO  testCases.TC_004_SF_ResponseValidation - Message Control Heder Expected Value:Hi, Welcome to Survey form...! Actual Value: Hi, Welcome to Survey form...!
+15:42:38.694 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+15:51:58.223 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:51:58.255 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:51:58.962 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:51:59.027 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:51:59.027 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:52:00.496 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:52:00.496 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:52:03.794 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:52:03.893 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:52:18.901 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:52:21.649 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:52:22.281 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+15:52:25.296 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+15:52:25.426 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+15:52:26.438 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:52:26.566 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+15:52:27.575 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:52:27.680 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+15:52:27.987 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+15:52:28.069 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+15:52:28.117 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+15:52:31.218 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+15:52:31.219 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+15:52:32.868 [main] INFO  testCases.TC_004_SF_ResponseValidation - Message Control Header Expected Value:Hi, Welcome to Survey form...! Actual Value: Hi, Welcome to Survey form...!
+15:52:34.003 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Question Expected Value:Select an option..! Actual Value: Select an option..!
+15:52:35.110 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Answer Expected Value:Strongly Agree Actual Value: Hi, Welcome to Survey form...!
+15:56:30.636 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:56:30.668 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:56:31.419 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:56:31.569 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:56:31.569 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:56:33.099 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:56:33.099 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:56:36.366 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:56:36.465 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:56:51.480 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:56:54.210 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:56:54.840 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+15:56:57.851 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+15:56:57.966 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+15:56:58.979 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:56:59.058 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+15:57:00.069 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+15:57:00.177 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+15:57:00.432 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+15:57:00.499 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+15:57:00.555 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+15:57:03.668 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+15:57:03.668 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+15:57:07.443 [main] INFO  testCases.TC_004_SF_ResponseValidation - Message Control Header Expected Value:Hi, Welcome to Survey form...! Actual Value: Hi, Welcome to Survey form...!
+15:57:08.556 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Question Expected Value:Select an option..! Actual Value: Select an option..!
+15:57:09.658 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Answer Expected Value:Strongly Agree Actual Value: Hi, Welcome to Survey form...!
+15:59:15.043 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+15:59:15.080 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+15:59:15.874 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+15:59:15.945 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+15:59:15.946 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+15:59:17.372 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+15:59:17.372 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+15:59:37.512 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+15:59:37.601 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+15:59:52.613 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+15:59:56.439 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+15:59:57.100 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+16:00:00.101 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+16:00:00.212 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+16:00:01.223 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:00:01.329 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+16:00:02.339 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:00:02.462 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+16:00:02.740 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+16:00:02.818 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+16:00:02.871 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+16:00:05.986 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+16:00:05.986 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+16:00:10.299 [main] INFO  testCases.TC_004_SF_ResponseValidation - Message Control Header Expected Value:Hi, Welcome to Survey form...! Actual Value: Hi, Welcome to Survey form...!
+16:00:11.405 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Question Expected Value:Select an option..! Actual Value: Select an option..!
+16:00:12.520 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Answer Expected Value:Strongly Agree Actual Value: Hi, Welcome to Survey form...!
+16:01:51.620 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+16:01:51.651 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+16:01:52.391 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+16:01:52.461 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+16:01:52.462 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+16:01:53.889 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+16:01:53.889 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+16:02:03.250 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+16:02:03.339 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+16:02:18.353 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+16:02:22.187 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+16:02:22.833 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+16:02:25.844 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+16:02:25.966 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+16:02:26.971 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:02:27.061 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+16:02:28.063 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:02:28.157 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+16:02:28.406 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+16:02:28.482 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+16:02:28.539 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+16:02:31.659 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+16:02:31.659 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+16:02:33.485 [main] INFO  testCases.TC_004_SF_ResponseValidation - Message Control Header Expected Value:Hi, Welcome to Survey form...! Actual Value: Hi, Welcome to Survey form...!
+16:02:34.596 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Question Expected Value:Select an option..! Actual Value: Select an option..!
+16:02:34.665 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Answer Expected Value:Strongly Agree Actual Value: Strongly Agree
+16:02:35.770 [main] INFO  testCases.TC_004_SF_ResponseValidation - Text Question Control Question Expected Value:Please type an answer ..! Actual Value: Please type an answer ..!
+16:02:35.860 [main] INFO  testCases.TC_004_SF_ResponseValidation - Text Question Control Answer Expected Value:Welcome to Automation...! Actual Value: Welcome to Automation...!
+16:02:36.982 [main] INFO  testCases.TC_004_SF_ResponseValidation - Email Control Question Expected Value:What is your email address? Actual Value: What is your email address?
+16:02:37.087 [main] INFO  testCases.TC_004_SF_ResponseValidation - Email Control Answer Expected Value:test@test.com Actual Value: test@test.com
+16:07:12.659 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+16:07:12.690 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+16:07:13.485 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+16:07:13.561 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+16:07:13.561 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+16:07:14.995 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+16:07:14.996 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+16:07:21.332 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+16:07:21.422 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+16:07:36.436 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+16:07:39.866 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+16:07:40.467 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+16:07:43.481 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+16:07:43.569 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+16:07:44.575 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:07:44.664 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+16:07:45.675 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:07:45.764 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+16:07:46.014 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+16:07:46.103 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+16:07:46.158 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+16:07:49.291 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+16:07:49.292 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+16:07:52.696 [main] INFO  testCases.TC_004_SF_ResponseValidation - Message Control Header Expected Value:Hi, Welcome to Survey form...! Actual Value: Hi, Welcome to Survey form...!
+16:07:53.813 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Question Expected Value:Select an option..! Actual Value: Select an option..!
+16:07:53.878 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Answer Expected Value:Strongly Agree Actual Value: Strongly Agree
+16:07:54.980 [main] INFO  testCases.TC_004_SF_ResponseValidation - Text Question Control Question Expected Value:Please type an answer ..! Actual Value: Please type an answer ..!
+16:07:55.060 [main] INFO  testCases.TC_004_SF_ResponseValidation - Text Question Control Answer Expected Value:Welcome to Automation...! Actual Value: Welcome to Automation...!
+16:07:56.172 [main] INFO  testCases.TC_004_SF_ResponseValidation - Email Control Question Expected Value:What is your email address? Actual Value: What is your email address?
+16:07:56.257 [main] INFO  testCases.TC_004_SF_ResponseValidation - Email Control Answer Expected Value:test@test.com Actual Value: test@test.com
+16:07:57.342 [main] INFO  testCases.TC_004_SF_ResponseValidation - Phone Number Control Question Expected Value:Please type your phone number Actual Value: Please type your phone number
+16:07:57.422 [main] INFO  testCases.TC_004_SF_ResponseValidation - Phone Number Control Answer Expected Value:1234567890 Actual Value: Strongly Agree, Agree, DisAgree
+16:10:34.088 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+16:10:34.117 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+16:10:34.873 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+16:10:34.943 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+16:10:34.943 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+16:10:36.516 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+16:10:36.517 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+16:10:40.080 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+16:10:40.174 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+16:10:55.176 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+16:10:57.212 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+16:10:57.878 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+16:11:00.889 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+16:11:00.990 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+16:11:01.996 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:11:02.070 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+16:11:03.083 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:11:03.231 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+16:11:03.532 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+16:11:03.615 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+16:11:03.665 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+16:11:06.776 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
+16:11:06.776 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigated to Build: SFAll_Independent
+16:11:09.928 [main] INFO  testCases.TC_004_SF_ResponseValidation - Message Control Header Expected Value:Hi, Welcome to Survey form...! Actual Value: Hi, Welcome to Survey form...!
+16:11:11.017 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Question Expected Value:Select an option..! Actual Value: Select an option..!
+16:11:11.077 [main] INFO  testCases.TC_004_SF_ResponseValidation - MultiChoice Control Answer Expected Value:Strongly Agree Actual Value: Strongly Agree
+16:11:12.150 [main] INFO  testCases.TC_004_SF_ResponseValidation - Text Question Control Question Expected Value:Please type an answer ..! Actual Value: Please type an answer ..!
+16:11:12.215 [main] INFO  testCases.TC_004_SF_ResponseValidation - Text Question Control Answer Expected Value:Welcome to Automation...! Actual Value: Welcome to Automation...!
+16:11:13.326 [main] INFO  testCases.TC_004_SF_ResponseValidation - Email Control Question Expected Value:What is your email address? Actual Value: What is your email address?
+16:11:13.391 [main] INFO  testCases.TC_004_SF_ResponseValidation - Email Control Answer Expected Value:test@test.com Actual Value: test@test.com
+16:11:14.498 [main] INFO  testCases.TC_004_SF_ResponseValidation - Phone Number Control Question Expected Value:Please type your phone number Actual Value: Please type your phone number
+16:11:14.563 [main] INFO  testCases.TC_004_SF_ResponseValidation - Phone Number Control Answer Expected Value:1234567890 Actual Value: Strongly Agree, Agree, DisAgree
+16:12:28.470 [main] INFO  testCases.TC_004_SF_ResponseValidation - Response Navigation started
+16:12:28.503 [main] INFO  testCases.TC_004_SF_ResponseValidation - Excel file Utility instance created
+16:12:29.167 [main] INFO  testCases.TC_004_SF_ResponseValidation - Row Count is: 1
+16:12:29.247 [main] INFO  testCases.TC_004_SF_ResponseValidation - Col Count is: 47
+16:12:29.247 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values started...
+16:12:30.628 [main] INFO  testCases.TC_004_SF_ResponseValidation - Extracting DataSheet Values Completed...
+16:12:30.628 [main] INFO  testCases.TC_004_SF_ResponseValidation - Navigation started
+16:12:33.921 [main] INFO  testCases.TC_004_SF_ResponseValidation - Login details Entered
+16:12:34.011 [main] INFO  testCases.TC_004_SF_ResponseValidation - Chat bot Logged In
+16:12:49.019 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard wait for 15 secs
+16:12:52.522 [main] INFO  testCases.TC_004_SF_ResponseValidation - clear all button clicked on listbox
+16:12:53.156 [main] INFO  testCases.TC_004_SF_ResponseValidation - Build Name entered in List Box
+16:12:56.168 [main] INFO  testCases.TC_004_SF_ResponseValidation - Waited for 3 secs
+16:12:56.281 [main] INFO  testCases.TC_004_SF_ResponseValidation - Enter Key applied on ListBox
+16:12:57.294 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:12:57.375 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Build button once
+16:12:58.387 [main] INFO  testCases.TC_004_SF_ResponseValidation - Hard Wait for 1 sec
+16:12:58.493 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked side bar Result
+16:12:58.750 [main] INFO  testCases.TC_004_SF_ResponseValidation - Side Item Response clicked
+16:12:58.832 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response
+16:12:58.883 [main] INFO  testCases.TC_004_SF_ResponseValidation - clicked refresh Response Again
+16:13:01.992 [main] INFO  testCases.TC_004_SF_ResponseValidation - Clicked first Response
